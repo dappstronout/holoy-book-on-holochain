@@ -1,0 +1,5 @@
+[book]
+authors = ["Vladimir Kostov"]
+language = "en"
+multilingual = false
+src = "src"
